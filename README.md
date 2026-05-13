@@ -35,9 +35,7 @@ streamlit run app.py
 
 ---
 
+
 # Author
 Muhammad Shahriyar
 Python | Data Analyst | FastAPI Developer
-```bash
-pip install -r requirements.txt
-streamlit run app.py
